@@ -18,7 +18,7 @@ function Header() {
       >
         <h3 className="header__bar__title">Aspiring Developer</h3>
         <div className="header__bar__icons">
-          <a href="https://github.com/Shruti-art" target="">
+          <a href="https://github.com/Shruti-art/sort-spectra.git" target="">
             <img src="https://img.icons8.com/ios/50/000000/github--v1.png" />
           </a>
           <a
